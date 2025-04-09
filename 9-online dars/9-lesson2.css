@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: green;
+    padding: 15px 0;
+}
+
+.container {
+    height: 400px;
+    width: 400px;
+    /* background-size: cover; */
+    padding: 0 200px;
+    border: 4px solid black;
+    margin: 0 auto;
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-image:  linear-gradient(-180deg,  red, blue ); */
+    /* liner-gradient */
+    background: linear-gradient(to top, rgba(210, 224, 196, 0.877), rgba(212, 226, 210, 0)), url(xitoy.jpg) top/cover no-repeat;
+}

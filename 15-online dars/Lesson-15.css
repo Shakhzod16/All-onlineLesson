@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 15px 25px;
+    background-color: beige;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+span {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    position: absolute;
+    right: -25px;
+    top: -10px;
+
+}

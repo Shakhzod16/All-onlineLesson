@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    background-color: bisque;
+    /* overflow: hidden; */
+}
+
+div {
+    font-family: sans-serif;
+    opacity: 1;
+    transition: 1s
+}
+
+.container {
+    display: flex;
+    color: green;
+    margin-top: 300px;
+    letter-spacing: 10px;
+    /* transition: .8s;
+    overflow: hidden; */
+}
+
+.container:hover .h {
+    transform: translateY(-300px) rotate(100deg);
+    overflow: hidden;
+    transition-delay: .5s;
+}
+
+.container:hover .e {
+    transform: translateY(300px) rotate(80deg);
+    overflow: hidden;
+    transition-delay: .8s;
+}
+
+.container:hover .l1 {
+    transform: translateX(-300px) rotate(120deg);
+    overflow: hidden;
+    transition-delay: 1s;
+}
+
+.container:hover .l2 {
+    transform: translateX(300px) rotate(80deg);
+    overflow: hidden;
+    transition-delay: 1.2s;
+}
+
+.container:hover .o {
+    transform: translateY(-300px) rotate(150deg);
+    overflow: hidden;
+    transition-delay: 1.5s;
+}

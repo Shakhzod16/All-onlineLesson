@@ -1,0 +1,14 @@
+.katta{
+    text-align: center;
+    gap: 5px;
+    padding: 10px;
+}
+.kichik{
+    background-color: rgb(219, 214, 214);
+}
+p{
+    color: #666;
+}
+.kok{
+    color: blue;
+}

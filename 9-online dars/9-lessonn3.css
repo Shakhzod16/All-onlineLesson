@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* img{
+    width: 100%;
+    filter: blur(5px);
+    filter: brightness(30%);
+    filter: grayscale(90%);
+    filter: contrast(30%);    
+} */
+
+.box {
+    width: 500px;
+    margin: o auto;
+    opacity: 0,1;
+    height: 200px;
+    border: 2px solid green;
+    overflow-x: scroll;
+
+    /* opacity: ;bu yuqoridagi kod faqat o va 1 oralig'ida qiymat qabul qiladi  */
+}
+
+img {
+    width: 100%;
+}

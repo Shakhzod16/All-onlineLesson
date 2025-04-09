@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", serif;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.row1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.row1 ul {
+    display: flex;
+    list-style: none;
+}
+
+.row1 li {
+    margin-left: 45px;
+}
+
+.row1 a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.row1 .logo img {
+    width: 200px;
+}
+
+#banner {
+    background-image: url(intro-bg.png);
+    background-size: cover;
+    background-position: bottom;
+    padding: 150px 0;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bannerB1 {
+    width: 45%;
+}
+
+.bannerB1 img {
+    width: 100%;
+}
+
+.bannerB1 h1 {
+    font-size: 70px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.bannerB1 span {
+    text-decoration: underline;
+    color: blue;
+}
+
+button {
+    padding: 15px 20px;
+    font-size: 24px;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+.btn {
+    margin-right: 15px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+}
+
+#first {
+    padding: 50px 0;
+
+}
+
+.row3 {
+    display: flex;
+    justify-content: center;
+}
+
+.firstBox {
+    width: 50%;
+    text-align: center;
+}
+
+.firstBox p {
+    color: #177;
+}
+
+.row4 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.firstQut {
+    width: 50%;
+}
+
+.firstQut img {
+    width: 100%;
+}

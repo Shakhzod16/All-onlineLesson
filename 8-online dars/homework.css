@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.katta {
+    background-image: url(ppp.jpg);
+    background-repeat: repeat-y;
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 1400px;
+    height: 700px;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position: center;
+    /* height: 100px;
+    width: 100px; */
+    /* border: 2px solid green; */
+    /* word-spacing: 20px; */
+    text-align: start;
+}
+.kichik{
+    width: 350px;
+    /* height: 400px; */
+    /* border: 2px solid #666 ; */
+    background-color: rgb(207, 207, 201);
+    padding: 20px;
+    margin: 130px 0px 0px 125px;
+    gap: 20px;
+}
+.soz{
+    color: #666;
+}
+.poo{
+    color: blue;
+}
+
+button{
+    color: blue;
+    background-color: rgb(207, 207, 201);
+    width: 100px;
+    height: 35px;
+}

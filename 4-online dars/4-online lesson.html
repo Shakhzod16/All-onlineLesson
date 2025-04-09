@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> four lesson </title>
+</head>
+
+<!-- <body>
+    <table border="3px">
+        <thead>
+            <tr>
+              <td>
+                buxoro
+              </td>
+            </tr>
+        </thead>
+    </table>
+</body> -->
+<!-- ------------------------ -->
+<!-- cellpadding bu atribut vazifasi table ichiga kiritilgan chegarani katta yoki kichik qilish uchun ishlatiladi  -->
+<!-- cellspaccing bu table orasidan joy ajratish uchun ishlatiladi  -->
+<!-- colspan buning vazifasi qiymatni qabul qilgan qiymatga qarab kattak q'shadi -->
+<!-- rowspan buning vazifasi qiymatni qabul qilgan qiymatga qarab kattak q'shadi eniga qarab -->
+<body>
+    <table style="background-color: antiquewhite; color: red;" border="2px" width="500px" height="400px" align="center">
+        <tr>
+            <th> N.m </th>
+            <th> Ism-familya </th>
+            <th> Manzil </th>
+            <th> Telefon raqam </th>
+        </tr>
+        <tr>
+            <td> 1 </td>
+            <td> Shahzod </td>
+            <td> Mirvoshi </td>
+            <td> 9879808 </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> Miron </td>
+            <td> Qo'qon </td>
+            <td> 7890000 </td>
+        </tr>
+    </table>
+    <br><br>
+    <table border="2px" cellpadding="20px" cellspacing="5px" align="center">
+        <tr>
+            <th> N.m </th>
+            <th> Ism-familya </th>
+            <th> Manzil </th>
+            <th> Telefon raqam </th>
+        </tr>
+        <tr>
+            <td> 1 </td>
+            <td> Shahzod </td>
+            <td> Mirvoshi </td>
+            <td> 9879808 </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> Miron </td>
+            <td> Qo'qon </td>
+            <td> 7890000 </td>
+        </tr>
+    </table>
+    <br><br>
+    <table style="text-align: center;" border="3px" width="500px" height="250px" align="center">
+        <tr style="background-color: green;">
+            <td>1</td>
+            <td colspan="3">2</td>
+            <!-- <td>3</td>
+            <td>4</td> -->
+        </tr>
+        <tr style="background-color: aqua;">
+            <td rowspan="5" valign="top">5</td>
+            <td>6</td>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <!-- <td>9</td> -->
+            <td style="background-color: aquamarine;">10</td>
+            <td colspan="2">11</td>
+
+        </tr>
+    </table>
+    <br><br>
+    <table cellpadding="20px" style="align-items: center;" border="3px" align="center" width="250px" height="50px">
+        <tr>
+            <td> column1 </td>
+            <td> column2 </td>
+            <td> column3 </td>
+        </tr>
+        <tr>
+            <td rowspan="2"> Row coll1</td>
+            <td>Row coll2</td>
+            <td> Row coll3</td>
+        </tr>
+        <tr>
+            <td> Row 2 </td>
+            <td > Row 2 </td>
+        </tr>
+        <tr>
+        <td colspan="3"> row 333 </td> 
+        </tr>
+    </table>
+</body>
+
+</html>

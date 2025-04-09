@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: green;
+    padding: 15px 0;
+
+}
+
+.container {
+    height: 800px;
+    background-size: cover;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 0 200px;
+    background-image: url(xitoy.jpg);
+    background-attachment: fixed;
+}
+
+.container p {
+    color: white;
+}

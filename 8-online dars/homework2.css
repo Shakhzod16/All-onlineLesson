@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.katta{
+    width: 1400px;
+    height: 700px;
+    background-image: url(photaaa.jpg);
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color: white;
+    margin: 0px 32px 34px 0px;
+}

@@ -1,0 +1,66 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> rhee onle cource </title>
+</head>
+
+<body>
+    <h1 style="background-color: green; text-align: center; color: antiquewhite; "> learning web cource </h1>
+    <!-- <input type="text"> bu teg aspsiy vazifa alohida joy ochib beradi buni ichida (text) deb belgilasak faqatgina text yozsa bo'ladi yoki raqamlar ham  -->
+    <!-- <form action=""></form> servrga jo'natiladigan ma'lumotlarni hammasi (form) tag ichida bo'ladi -->
+    <!-- <input type="text" ((((placeholder="FIO">)))) bu teg ichida istalgan narsani yozish mumkin va u chozilgan o'chib ketadi!!!! -->
+    <!-- <label ></label> Bu tag form tagini ichida yoziladi va vazifasi inputda oldin chiqadi va uchi o'chirib bo'ladi!!!! -->
+    <!-- number ichida MAX qiymati berish orgali biz raqamlar limitini belgilaymiz 
+    MIN ham shunday hisoblanadi eng kichik qiymat qabul kiritiladi  -->
+    <!-- <select name="" id=""></select> bu atribut vazifasi istalgancha nomni o'zida jamlaydi bu <option value=""></option> tagi orqali ishga tushiriladi -->
+    <!-- Bu yerdagi ma'lumotlarni <button></button> orqali yaratamiz  -->
+     <!-- <input type="text"> ichida maxlength orqali ma'lumotlarni cheklash mumkin -->
+    <form action="">
+        <label for="name"> Your name :</label>
+        <input maxlength="15" id="name" type="text" placeholder="FIO">
+        <br><br>
+        <label for="email"> Your email: </label>
+        <input id="email" type="email" placeholder="Email">
+        <br><br>
+        <label for="number"> Your number:</label>
+        <input type="number" id="number" placeholder="Number" max="100" min="-1">
+        <br><br>
+        <label for="date"> Date </label>
+        <input type="date" id="date">
+        <br><br>
+        <p> Gender: </p>
+        <label for="Male"> Male </label>
+        <input type="radio" id="Male" name="gen">
+        <label for="Female">Female</label>
+        <input type="radio" id="Female" name="gen">
+        <label for="Animals">Animals</label>
+        <input type="radio" id="Animals" name="gen">
+        <br><br>
+        <label for="select"> Choose language: </label>
+        <select name="" id="">
+            <option value=""> Uzb </option>
+            <option value=""> RUS </option>
+            <option value=""> Eng </option>
+        </select>
+        <br><br>
+        <label for="color"> Choose color </label>
+        <input type="color" id="color">
+        <br><br>
+        <label for="check"> Checkbox </label>
+        <input type="checkbox" id="check">
+        <br><br>
+        <label for="pass"> Your Password </label>
+        <input type="password" id="pass" placeholder="your password">
+        <br><br>
+        <label for="bigText"> Your massage: </label>
+        <br><br>
+        <textarea name="bigText" id="bigText" cols="15" rows="2"></textarea>
+        <br><br>
+        <button type="submit"> Send </button>
+
+    </form>
+</body>
+
+</html>

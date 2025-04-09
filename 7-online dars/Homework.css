@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.BIR{
+    width: 800px;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px solid #666;
+}
+.BIR{
+    width: 800px;
+    align-items: center;
+    margin: 50px auto;
+    border: 1px solid #666;
+}
+.BIR{
+    width: 800px;
+    align-items: center;
+    margin: 50px auto;
+    border: 1px solid #666;
+}
+img{
+    width: 100%;
+    padding: 10px;
+}
+#button{
+    align-items: end;
+}
+p{
+    color: #666;
+    margin: 10px;
+}
+h1{
+    margin: 10px;
+}
+a{
+    /* align-items: end; */
+    margin: 700px;
+    margin-bottom: 10px;
+}

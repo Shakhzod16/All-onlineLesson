@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Lesson 17</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/Lesson-17.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="wrapper">
+            <div class="box">
+                <h1> It school </h1>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
