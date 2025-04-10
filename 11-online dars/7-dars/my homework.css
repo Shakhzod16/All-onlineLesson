@@ -1,0 +1,33 @@
+.picture{
+    border-top: 3px dotted black;
+}
+#name{
+
+    border-top: 3px dotted black;
+    width: 450px;
+    height: auto;
+}
+.Ability{
+    border-top: 3px dotted black;
+    width: 450px;
+    height: auto; 
+}
+#compyuter{
+
+    color: brown;
+}
+
+.elements{
+
+    font-family: 'Courier New', Courier, monospace;
+font-weight: bolder;
+font-size: 50px;
+font-style: italic;
+
+}
+#table{
+   
+    border-top: 3px dotted black;
+    width: 450px;
+    height: auto;
+}

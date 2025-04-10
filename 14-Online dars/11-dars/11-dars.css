@@ -1,0 +1,68 @@
+.katta{
+    width: 1200px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+.ortacha{
+    width: 1140px;
+    height: 150px;
+    border: 2px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 15px;
+    
+}
+.three3{
+    width: 200px;
+    height: 120px;
+    border: 2px solid black;
+}
+.bottom{
+    width: 98%;
+    height: 500px;
+    border: 2px solid black;
+}
+
+/* nnnnnnnnnnnnnnnnnnnnnnnn */
+.body{
+    background-color: #10b444;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1110px;
+    margin: 0 auto;
+}
+.left-side{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.btn{
+    width: 153px;
+    height: 48px;
+    border-radius: 24px;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+}
+

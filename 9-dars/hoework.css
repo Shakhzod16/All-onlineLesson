@@ -1,0 +1,142 @@
+.grandfather{
+    width: 1200px;
+    height: 900px;
+    border: solid black;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 10px;
+    gap: 10px;
+}
+.father1{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    border: solid green;
+    justify-content: space-between;
+}
+.father2{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    border: solid red;
+    justify-content: space-between;
+}
+.father3{
+    width: 20% ;
+    height: 100%;
+    display: flex;
+    border: solid green;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+/* .bobo{
+    width: 1200px;
+    height: 900px;
+    border: solid 2px  black;
+    display: flex ;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 15px;
+    gap: 15px;
+
+}
+.bola{
+    width: 100%;
+    height: 20%;
+    border: solid green;
+    flex-wrap: wrap;
+
+}
+.bol{
+    width: 70px ;
+    height: 30px;
+    border: solid red;
+    justify-content: left;
+    
+}
+.ot{
+    width: 100%;
+    height: auto;
+    border: solid black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.aaa{
+    width: 20%;
+    height: 100%;
+    border: 2px solid ;
+
+}
+
+.right{
+    width: 50%;
+    height: 80%;
+    border: solid blue;
+}
+.left{
+    width: 50%;
+    height: 80%;
+    border: solid blue;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 2px solid ;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.chap_tomon{
+    width: 20%;
+    height: 100%;
+    border: 2px solid ;
+}
+.urta_tepa{
+    width: 79%;
+    height: 100%;
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.urta_ichi_tepa{
+    width: 100%;
+    height: 30%;
+    border: 2px solid ;
+}
+
+.urta_ichi_urta{
+    display: flex;
+    width: 100%;
+    height: 30%;
+    gap: 10px;
+}
+.quticha{
+    width: 33%;
+    height: 100%;
+    border: 2px solid ;
+}
+.urta_ichi_pas{
+    width: 100%;
+    height: 30%;
+    border: 2px solid ;
+}
+

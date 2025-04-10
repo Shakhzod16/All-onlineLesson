@@ -1,0 +1,125 @@
+.katta{
+    width: 1300px;
+    height: 700;
+    border: 30px solid rgb(8, 88, 125);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.quti{
+    width: 300px;
+    height: 450px;
+    border: 3px solid green;
+    margin: 30px 10px;
+    text-align: center;
+    justify-content: space-between;
+}
+.rasm{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top:  15px;
+    background-color: black;
+}
+.quti h3{
+    color: grey;
+
+}
+.qwert{
+    width: 200px;
+    height: 50px;
+    background-color:white;
+   
+    border-radius: 30px;
+    color: goldenrod;
+}
+
+.katta2{
+    width: 1000px;
+    height: auto;
+    border: 30px solid rgb(227, 9, 162);
+    padding: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.aaa{
+    color: blue;
+}
+
+.quti1{
+    width: 300px;
+    height: 450px;
+    border: 3px solid green;
+    margin: 30px 10px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+
+
+.rasm1{
+    background-color: pink;
+    width: 30px;
+    height: 45px;
+    border: 3px solid green;
+    margin: 30px 10px;
+    text-align: center;
+    justify-content: space-between;
+    color: blue;
+}
+
+.katta4{
+    width: 1000px;
+    height: auto;
+    border: 30px solid ;
+    padding: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.quti2{
+    width: 300px;
+    height: 450px;
+    border: 3px solid green;
+    margin: 30px 10px;
+    text-align: center;
+    justify-content: space-between;
+}
+.rasm22{
+    width: 300px;
+    height: 200px;
+   
+}
+.qwert1{
+    width: 200px;
+    height: 50px;
+    background-color:white;
+   
+    border-radius: 30px;
+    color: goldenrod;
+}
+
+.katta44{
+    width: 1000px;
+    height: auto;
+    border: 30px solid rgb(182, 173, 173);
+    padding: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.quti3{
+    width: 300px;
+    height: 450px;
+    border: 3px solid rgb(118, 127, 118);
+    margin: 30px 10px;
+    text-align: center;
+    justify-content: space-between;
+}
+.rasm44{
+    width: 300px;
+    height: 200px; 
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.katta{
+    background-image: url("new\ aaa.webp");
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    font-size: 45px;
+    background-image: linear-gradient(red,black);
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}

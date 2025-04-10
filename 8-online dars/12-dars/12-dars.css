@@ -1,0 +1,36 @@
+.alo{
+    font-family: "Playwrite DE VA Guides", serif;
+}
+.ala{
+    font-family: "Audiowide", serif;
+    color: green;
+}
+.ava{
+    font-family: "Creepster", serif;
+    color: red;
+}
+.square{
+    width: 100px;
+    height: 100px;
+    background-image: linear-gradient(to top green , yellow);
+    /* background: linear-gradient(blue,blue,blue,red,white,white,white,red,green,green,green); */
+    background: radial-gradient(white,black,white,black,white,black,white);
+}
+.squara{
+    width: 100px;
+    height: 100px;
+    background-image: linear-gradient(to top green , yellow);
+    background: linear-gradient(blue,blue,blue,red,white,white,white,red,green,green,green);
+    
+}
+.ala{
+    width: 1000px;
+    height: 500px;
+    font-size: 48px;
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}

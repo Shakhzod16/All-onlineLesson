@@ -1,0 +1,137 @@
+#bayroq{
+    color: blue;
+}
+#bayroq2{
+
+    color: chocolate;
+}
+
+.tepasi{
+
+    width: 500px;
+    height: 80px;
+    background-color: black;
+    border-bottom: 5px solid white;
+}
+.ortasi{
+    width: 500px;
+    height: 80px;
+    background-color: red;
+    border-bottom: 5px solid white;
+
+}
+.pasti{
+
+    width: 500px;
+    height: 80px;
+    background-color: yellow;
+    border-bottom: 5px solid white;
+}
+
+.ppp{
+    border: 5px solid black;
+    width: 500px;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+#bayroq3{
+
+    color: blueviolet;
+}
+
+.tepasi2{
+
+    width: 500px;
+    height: 80px;
+    background-color: green;
+    border-bottom: 5px solid white;
+   
+    
+}
+.ortasi2{
+
+    width: 500px;
+    height: 80px;
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+.pasti2{
+
+    width: 500px;
+    height: 80px;
+    background-color: red;
+    border-bottom: 5px solid white;
+}
+
+.ppp{
+    border: 5px solid black;
+    width: 500px;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+#bayroq4{
+
+    color: blueviolet;
+}
+
+.tepasi3{
+
+    width: 500px;
+    height: 80px;
+    background-color: white;
+    border-bottom: 2px solid black;
+    
+}
+.ortasi3{
+
+    width: 500px;
+    height: 80px;
+    background-color: blue;
+    border-bottom: 5px solid white;
+  
+}
+.pasti3{
+
+    width: 500px;
+    height: 80px;
+    background-color: red;
+    border-bottom: 5px solid white;
+}
+
+.ppp{
+    border: 5px solid black;
+    width: 500px;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+#ccc{
+
+    width: 105px;
+    height: 105px;
+}
+
+.aaa{
+
+    width: 250px;
+    background-color: aqua ;
+    border-radius: 4px;
+    text-align: center;
+    padding: 25px 10px;
+
+}
+
+.bbb{
+
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background-color: white;
+}
+
+
+
